@@ -56,22 +56,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pimpithecat&theme=radical&row=1&column=7)
 
-## 📈 Activity Graph
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=pimpithecat&theme=radical)
-
-## 🎯 Featured Projects
-
-### [Project Name 1](https://github.com/pimpithecat/project-1)
-Brief description of your amazing project
-
-### [Project Name 2](https://github.com/pimpithecat/project-2)
-Another cool project you've worked on
-
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@pimpi.dev)
 [![Website](https://img.shields.io/badge/-Website-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://pimpi.dev)
 
